@@ -28,5 +28,5 @@ The idea of this project is to create a Google Chrome extension that makes it ea
 - [Osu Account](https://osu.ppy.sh/users/12765882)
 
 ---
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=amnezziaa&show_icons=true&theme=radical)](https://github.com/amnezziaa)
 [![Discord Presence](https://lanyard.cnrad.dev/api/354698514275500032)](https://discord.com/users/354698514275500032)
