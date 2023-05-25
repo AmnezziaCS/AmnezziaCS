@@ -14,7 +14,7 @@ A Git activity generator fully written in `NodeJS` that will enhance your contri
 
 ### 🍩 HenriBot
 
-HenriBot is a bot made to store data based on what we, students buy at noon. Everything is stored in this [google sheet](https://docs.google.com/spreadsheets/d/1_9VKhiAp9E4STmI9wpgV3mRElIXjzxhKiF9BlIiGNWM/edit).
+HenriBot is a bot made to store data based on what we, students buy at noon. Everything is stored on this [google sheet](https://docs.google.com/spreadsheets/d/1_9VKhiAp9E4STmI9wpgV3mRElIXjzxhKiF9BlIiGNWM/edit).
 
 ## Currently working on
 
