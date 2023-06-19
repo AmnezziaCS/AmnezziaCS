@@ -29,4 +29,4 @@ The idea of this project is to create a Google Chrome extension that makes it ea
 
 ---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=amnezziaa&show_icons=true&theme=radical)](https://github.com/amnezziaa)
-[![Discord Presence](https://lanyard.cnrad.dev/api/354698514275500032?theme=dark&bg=42141c&animated=true&hideDiscrim=true)](https://discord.com/users/354698514275500032)
+[![Discord Presence](https://lanyard.cnrad.dev/api/354698514275500032?theme=dark&animated=true&hideDiscrim=true)](https://discord.com/users/354698514275500032)
