@@ -1,42 +1,83 @@
-# Welcome to Amnezzia's userpage ! ☕
+<h2 align="center">Welcome to Amnezzia's userpage ! ☕</h2>
 
-![](https://komarev.com/ghpvc/?username=amnezziaa&color=red)
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=amnezziaa&color=red">
+    <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6">
+    <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624">
+    <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC">
+    <img src="https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25">
+</div>
 
-## My projects
+<br>
 
-Apart from school studies, I try to develop stuff on my own because i think it's the best way to learn while having fun.
+```sh
+    .--.
+   |o_o |
+   |:_/ |
+  //   \ \
+ (|     | )
+/’\_   _/’\
+\___)=(___/
 
-### ✨ [Chocobot](https://github.com/amnezziaa/ChocoBot)
+starting up...
 
-Chocobot is a currency and [osu](https://osu.ppy.sh/users/12765882/osu) related Discord bot fully developed in `NodeJS`.
+~$ whoami
 
-### ✅ [ContributorJS](https://github.com/amnezziaa/ContributorJS)
+amnezziaa
 
-A Git activity generator fully written in `NodeJS` that will enhance your contribution graph.
+~$ cat README.md
 
-### 🍩 [HenriBot](https://github.com/amnezziaa/HenriBot)
+---------------------------------------------------
 
-HenriBot is a bot made to store data based on what we, students buy at noon. Everything is stored on this [google sheet](https://docs.google.com/spreadsheets/d/1_9VKhiAp9E4STmI9wpgV3mRElIXjzxhKiF9BlIiGNWM/edit).
+# Welcome to my GitHub profile!
 
-## Currently working on
+Hi there, I’m amnezziaa, a full-stack developer and JavaScript enthusiast.
 
-### 🐍 [SnakeExtension](https://github.com/amnezziaa/SnakeExtension)
+## About me
 
-The idea of this project is to create a Google Chrome extension that makes it easier for [speedrunners](https://www.speedrun.com/snake_game) to keep up with their session.
+I’m currently working at diagRAMS Technologies as a Software Engineer where I specialize in technologies like:
 
-### ⚒️ Global refactor of my repos
+- Next.js,
+- Node.js,
+- Typescript,
+- Elasticsearch,
 
-I like perfection. Therefore, when one of the things I created starts to get old, I like to come back on it and make it better using all the knowledge I acquired in the meantime.
+### What I'm focusing on
 
-_🔨 Currently refactoring :_ [HenriBot](https://github.com/amnezziaa/HenriBot)
+I’d like to dive into zsh/shell customization and automatisation more in the future (can be found in my dotfiles repo).
+I’m also interested in learning more about DevOps and cloud computing.
+As I believe it’s a crucial skill for any developer but also because I find it fascinating.
 
-## Some of my online presence
+### My projects
 
-- [Steam](https://steamcommunity.com/id/hdhrfl/)
-- [osu!](https://osu.ppy.sh/users/12765882)
-- [NameMC](https://fr.namemc.com/profile/56m.3)
+You can find most of my projects on my GitHub profile.
+I’m rather perfectionist so I tend to spend a lot of time on my projects to make sure they are clean :’)
 
----
+---------------------------------------------------
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=amnezziaa&show_icons=true&theme=radical)](https://github.com/amnezziaa)
-[![Discord Presence](https://lanyard.cnrad.dev/api/354698514275500032?theme=dark&animated=true&hideDiscrim=true)](https://discord.com/users/354698514275500032)
+~$ cat steam.txt
+
+My Steam profile: https://steamcommunity.com/id/hdhrfl
+
+~$ cat osu.txt
+
+My osu! profile: https://osu.ppy.sh/users/12765882
+
+~$ exit
+```
+
+<h2 align="center">Stats ✨<h2>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnezziaa&layout=compact&theme=radical">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=amnezziaa&show_icons=true&theme=radical">
+</div>
+
+<h3 align="center"><h3>
+
+<div align="center">
+    <a href="https://discord.com/users/354698514275500032)">
+        <img src="https://lanyard.cnrad.dev/api/354698514275500032?theme=dark&animated=true&hideDiscrim=true">
+    </a>
+</div>
