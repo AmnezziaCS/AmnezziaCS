@@ -55,13 +55,17 @@ I’m rather perfectionist so I tend to spend a lot of time on my projects to ma
 
 ---------------------------------------------------
 
-~$ cat steam.txt
+~$ cat steam.json
 
-My Steam profile: https://steamcommunity.com/id/hdhrfl
+{
+    "link": "https://steamcommunity.com/id/hdhrfl"
+}
 
-~$ cat osu.txt
+~$ cat osu.json
 
-My osu! profile: https://osu.ppy.sh/users/12765882
+{
+    "link": "https://osu.ppy.sh/users/12765882" 
+}
 
 ~$ exit
 ```
