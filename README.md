@@ -81,7 +81,7 @@ I’m rather perfectionist so I tend to spend a lot of time on my projects to ma
 <h3 align="center"><h3>
 
 <div align="center">
-    <a href="https://discord.com/users/354698514275500032)">
+    <a href="https://discord.com/users/354698514275500032">
         <img src="https://lanyard.cnrad.dev/api/354698514275500032?theme=dark&animated=true&hideDiscrim=true">
     </a>
 </div>
