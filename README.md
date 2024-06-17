@@ -44,7 +44,7 @@ I’m currently working at diagRAMS Technologies as a Software Engineer where I 
 
 ### What I'm focusing on
 
-I’d like to dive into zsh/shell customization and automatisation more in the future (can be found in my dotfiles repo).
+I’d like to dive into zsh/shell customization and automatization more in the future (can be found in my dotfiles repo).
 I’m also interested in learning more about DevOps and cloud computing.
 As I believe it’s a crucial skill for any developer but also because I find it fascinating.
 
@@ -64,7 +64,7 @@ I’m rather perfectionist so I tend to spend a lot of time on my projects to ma
 ~$ cat osu.json
 
 {
-    "link": "https://osu.ppy.sh/users/12765882" 
+    "link": "https://osu.ppy.sh/users/12765882"
 }
 
 ~$ exit
