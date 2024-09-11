@@ -58,7 +58,7 @@ I’m rather perfectionist so I tend to spend a lot of time on my projects to ma
 ~$ cat steam.json
 
 {
-    "link": "https://steamcommunity.com/id/hdhrfl"
+    "link": "https://steamcommunity.com/id/AmnezziaCS"
 }
 
 ~$ cat osu.json
