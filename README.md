@@ -23,15 +23,14 @@ starting up...
 
 ~$ whoami
 
-amnezziaa
+Amnezzia
 
 ~$ cat README.md
 
----------------------------------------------------
 
 # Welcome to my GitHub profile!
 
-Hi there, I’m amnezziaa, a full-stack developer and JavaScript enthusiast.
+Hi there, I’m Amnezzia, a full-stack developer and JavaScript enthusiast.
 
 ## About me
 
@@ -40,20 +39,8 @@ I’m currently working at diagRAMS Technologies as a Software Engineer where I 
 - Next.js,
 - Node.js,
 - Typescript,
-- Elasticsearch,
+- Elasticsearch
 
-### What I'm focusing on
-
-I’d like to dive into zsh/shell customization and automatization more in the future (can be found in my dotfiles repo).
-I’m also interested in learning more about DevOps and cloud computing.
-As I believe it’s a crucial skill for any developer but also because I find it fascinating.
-
-### My projects
-
-You can find most of my projects on my GitHub profile.
-I’m rather perfectionist so I tend to spend a lot of time on my projects to make sure they are clean :’)
-
----------------------------------------------------
 
 ~$ cat steam.json
 
@@ -73,9 +60,9 @@ I’m rather perfectionist so I tend to spend a lot of time on my projects to ma
 <h2 align="center">Stats ✨<h2>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnezziaa&layout=compact&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmnezziaCS&layout=compact&theme=radical">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=amnezziaa&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=AmnezziaCS&show_icons=true&theme=radical">
 </div>
 
 <h3 align="center"><h3>
