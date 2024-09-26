@@ -30,16 +30,12 @@ Amnezzia
 
 # Welcome to my GitHub profile!
 
-Hi there, I’m Amnezzia, a full-stack developer and JavaScript enthusiast.
+Hi there, I’m Amnezzia, a full-stack developer and JavaScript enthusiast. 
+I love to learn new things and I’m always looking for new challenges thus why I chose to pick up DevOps as well.
 
 ## About me
 
-I’m currently working at diagRAMS Technologies as a Software Engineer where I specialize in technologies like:
-
-- Next.js,
-- Node.js,
-- Typescript,
-- Elasticsearch
+I’m currently working at SII as a DevOps Engineer.
 
 
 ~$ cat steam.json
@@ -51,7 +47,7 @@ I’m currently working at diagRAMS Technologies as a Software Engineer where I 
 ~$ cat osu.json
 
 {
-    "link": "https://osu.ppy.sh/users/12765882"
+    "link": "https://osu.ppy.sh/users/Amnezzia"
 }
 
 ~$ exit
