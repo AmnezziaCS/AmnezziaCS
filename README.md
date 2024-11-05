@@ -30,7 +30,7 @@ Amnezzia
 
 # Welcome to my GitHub profile!
 
-Hi there, I’m Amnezzia, a full-stack developer and JavaScript enthusiast. 
+Hi there, I’m Amnezzia, a full-stack developer and JavaScript enthusiast.
 I love to learn new things and I’m always looking for new challenges thus why I chose to pick up DevOps as well.
 
 ## About me
@@ -41,7 +41,7 @@ I’m currently working at SII as a DevOps Engineer.
 ~$ cat steam.json
 
 {
-    "link": "https://steamcommunity.com/id/AmnezziaCS"
+    "link": "https://steamcommunity.com/id/Teletech"
 }
 
 ~$ cat osu.json
