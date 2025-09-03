@@ -1,10 +1,8 @@
-<h2 align="center">Welcome to Amnezzia's userpage ! ☕</h2>
+<h2 align="center">Welcome to Amnezzia's userpage! ☕</h2>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=amnezziaa&color=red">
-    <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6">
     <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624">
-    <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC">
     <img src="https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25">
 </div>
 
